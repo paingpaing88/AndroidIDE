@@ -1,6 +1,6 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.7.2",
+"Version":"9.7.29",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/paingpaing88/AndroidIDE/blob/main/OpenVPN.zip?raw=true" ,
 "Changelog":"
@@ -12,7 +12,7 @@
 //ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.1.9",
 "latestVersionCode": "1",
-"url": "",
+"ur9.7.29": "",
  "releaseNotes": [
   "-Demo"
     ]
